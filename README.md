@@ -1,23 +1,18 @@
-# 🐍 CoursPython
+08h00 – 09h00 → ☕ Café & Chill
+Petite intro, présentation du programme, youtube
 
-Bienvenue dans **CoursPython**, un dépôt où je partage mon apprentissage de Python.
+09h00 – 12h30 → 💻 Coding Session
+Python, Fast API, MVP envoi de fichier (choix du tchat)
 
-## Contenu
-- 🔢 Mini projets (comme une calculette en ligne de commande)
-- 📚 Notes et explications pour débutants
-- 🧪 Expérimentations et tests foireux
-- 🎥 Suivi de mes lives Twitch/YouTube (si tu suis ça quelque part)
+12h30 – 13h30 → 🍔 Pause Déj’ Video skate
 
-> But ultime : apprendre Python à la cool et sans pression 💻☕  
-Rejoins l'aventure ou clone juste pour te marrer/apprendre un truc 😄
+13h30 – 15h30 → 🏴‍☠️ Gaming Break — Sea of Thieves
 
----
+15h30 – 17h30 → 👨‍💻 Coding reprise MVP fastAPI
 
-## ⚙️ Tech
-- Python 3.x
-- Terminal / CLI
-- VS Code
+17h30 – 18h00 → ☕ Pause Chill
 
----
+18h00 – 19h30 → 🎮 Gaming Room 2.0
+Multi-gaming léger : party game avec viewers.
 
-## 🚧 En cours, donc pas parfait. Mais on y croit.
+19h30 – 20h00 → 🎤 Clôture discussion ZEvent
